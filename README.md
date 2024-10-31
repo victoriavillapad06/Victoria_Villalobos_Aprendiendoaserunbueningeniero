@@ -16,3 +16,4 @@ Ahora, diseñe un algoritmo que permita calcular cuántos posibles movimientos v
 Solución
 
 El siguiente programa calcula la cantidad de secuencias posibles que puede realizar un caballo, empezando desde cualquier tecla en un teclado numérico de 0 a 9, después de n movimientos. El caballo solo se puede mover mediante L. -La matriz movimientos define los destinos válidos que puede alcanzar un caballo desde cada tecla del teclado .Si un número no tiene más movimientos válidos, se usa el -1.
+Se utliza el bucle for
